@@ -1,0 +1,13 @@
+G:\bau_net\BAU_Project.exe
+G:\bau_net\BAU_Project.dll
+G:\bau_net\BAU_Project.deps.json
+G:\bau_net\BAU_Project.runtimeconfig.json
+G:\bau_net\BAU_Project.pdb
+G:\bau_net\Google.Protobuf.dll
+G:\bau_net\K4os.Compression.LZ4.dll
+G:\bau_net\K4os.Compression.LZ4.Streams.dll
+G:\bau_net\K4os.Hash.xxHash.dll
+G:\bau_net\MySql.Data.dll
+G:\bau_net\Ubiety.Dns.Core.dll
+G:\bau_net\ZstdNet.dll
+G:\bau_net\BouncyCastle.Crypto.dll

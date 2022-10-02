@@ -1,0 +1,13 @@
+F:\patrol-pump\BAU_Project.exe
+F:\patrol-pump\BAU_Project.dll
+F:\patrol-pump\BAU_Project.deps.json
+F:\patrol-pump\BAU_Project.runtimeconfig.json
+F:\patrol-pump\BAU_Project.pdb
+F:\patrol-pump\Google.Protobuf.dll
+F:\patrol-pump\K4os.Compression.LZ4.dll
+F:\patrol-pump\K4os.Compression.LZ4.Streams.dll
+F:\patrol-pump\K4os.Hash.xxHash.dll
+F:\patrol-pump\MySql.Data.dll
+F:\patrol-pump\Ubiety.Dns.Core.dll
+F:\patrol-pump\ZstdNet.dll
+F:\patrol-pump\BouncyCastle.Crypto.dll
